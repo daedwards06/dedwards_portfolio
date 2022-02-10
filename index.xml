@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Dominique Edwards</title>
-    <link>https://example.com/</link>
+    <link>https://daedwards06.github.io/dedwards_portfolio/</link>
     <description>Recent content in Data Science Portfolio on Dominique Edwards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://daedwards06.github.io/dedwards_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Highway Traffic Safety Administration - Exploratory Data Analysis</title>
-      <link>https://example.com/post/chapter-1/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/post/chapter-1/</link>
       <pubDate>Sat, 15 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-1/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/post/chapter-1/</guid>
       <description>Performed EDA on NHTSA dataset with 32k rows and 50+ columns. Created visualizations using libraries such as Pandas, Matplotlib, and Seaborn on different aspects of data Determined that the number of cars on the road was the biggest influencing factor in the number of overall accidents. Identified a concentrated time range for when most fatal accidents occur.  Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>National Highway Traffic Safety Administration - Machine Learning - KMeans</title>
-      <link>https://example.com/post/project-4/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/post/project-4/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-4/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/post/project-4/</guid>
       <description>Created new features for ease of analysis. Performed KMeans and Algorithmic Clustering on dataset. Compared performance of both Clustering Machine Learning algorithms.  Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>National Highway Traffic Safety Administration - Machine Learning - Logistic Regression and SVM</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/post/project-2/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/post/project-2/</guid>
       <description>Created new features for ease of analysis. Performed Logistic Regression and SVM on dataset. Compared performance of both classification Machine Learning algorithms.  Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>National Highway Traffic Safety Administration - Machine Learning - Random Forest and KNN</title>
-      <link>https://example.com/post/chapter-3/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/post/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-3/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/post/chapter-3/</guid>
       <description>Used PCA for Dimension Reduction of explanatory variables. Performed Logistic Regression, Random Forest, and KNN on dataset. Compared performance of all 3 Machine Learning algorithms.  Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Case Study: Miles per Gallon</title>
-      <link>https://example.com/post/project-5/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/post/project-5/</link>
       <pubDate>Sat, 11 Mar 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-5/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/post/project-5/</guid>
       <description>Given an incomplete dataset, provided analysis of the car dataset using multiple imputation in SAS  Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/about/</guid>
       <description>Finding solutions to complex problems by analyzing data. It was an unexpected, yet unsurprising passion that grabbed me several years ago, and I probably have my father to thank for that. He is “problem solver extraordinaire” and my admiration of his abilities obviously sparked my own.
 Fast forward a few years, and now, I am a practicing Data Scientist holding a Master’s degree in Data Science from Southern Methodist University.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://daedwards06.github.io/dedwards_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://daedwards06.github.io/dedwards_portfolio/contact/</guid>
       <description>Follow me on Social Media Platforms.
    Platform URL     LinkedIn: https://www.linkedin.com/in/domedwards/   GitHub: https://github.com/daedwards06   Twitter: https://twitter.com/ncat_dom    </description>
     </item>

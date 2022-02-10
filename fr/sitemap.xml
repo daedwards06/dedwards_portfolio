@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://daedwards06.github.io/dedwards_portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/"
                 />
   </url><url>
-    <loc>https://example.com/fr/post/chapter-1/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/chapter-1/"
+                href="https://daedwards06.github.io/dedwards_portfolio/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/chapter-1/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/post/chapter-1/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/scene/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://daedwards06.github.io/dedwards_portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/tags/"
                 />
   </url><url>
-    <loc>https://example.com/fr/post/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://daedwards06.github.io/dedwards_portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/post/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://daedwards06.github.io/dedwards_portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/contact/</loc>
+    <loc>https://daedwards06.github.io/dedwards_portfolio/fr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://daedwards06.github.io/dedwards_portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/contact/"
+                href="https://daedwards06.github.io/dedwards_portfolio/fr/contact/"
                 />
   </url>
 </urlset>
